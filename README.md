@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeesonsteepai
 - 👀 I’m interested in ...watching tv, tech news, windows OS and last but not the least... songs/rhymes
 - 🌱 I’m currently learning ... flutter and dart
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ... ping me
 
 <!---
